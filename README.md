@@ -1,4 +1,4 @@
-### Fira GO 1.0 * NEW *
+### FiraGO 1.0 * NEW *
 
 - 15 weights, 2 styles (Roman & Italic)
 
@@ -11,7 +11,7 @@ Identical to Fira Sans 4.3:
 - Cyrillic Extended (+ locl BGR and SRB)
 - polytonic Greek
 
-Additionally in Fira GO:
+Additionally in FiraGO:
 - Arabic
 - Devanagari
 - Georgian
@@ -21,18 +21,18 @@ Additionally in Fira GO:
 - Manual basic True Type Hinting via Glyphs
 
 ### LEGAL
-Digitized data copyright 2012-2018 for Fira GO, Carrois Corporate GbR and HERE Europe B.V. All rights reserved. 
-Digitized data copyright 2012-2018 for Fira Sans up to version 4.3 The Mozilla Foundation, Telefonica S.A., Carrois Corporate GbR and bBox Type GmbH
+- Digitized data copyright 2012-2018 for Fira GO, Carrois Corporate GbR and HERE Europe B.V. All rights reserved. 
+- Digitized data copyright 2012-2018 for Fira Sans up to version 4.3 The Mozilla Foundation, Telefonica S.A., Carrois Corporate GbR and bBox Type GmbH
 
-Design 2016 and later: Carrois Corporate GbR
+- Design 2016 and later for Fira Sans & FiraGO: Carrois Corporate GbR and bBox Type GmbH
 
-Design Fira GO Arabic: Ralph du Carrois, Titus Nemeth and Hasan Abu Afash 
-Design Fira GO Devanagari: Rob Keller, Kimya Gandhi and Natalie Rauch
-Design Fira GO Georgian: Akaki Razmadze and Anja Meiners
-Design Fira GO Hebrew: Natalie Rauch with consultancy support by Yanek Iontef
-Design Fira GO Thai: Mark Frömberg with consultancy support by Ben Mitchell
-Hinting: Monika Bartels and Anke Bonk at FontWerk
-Scripts and technical support: Mark Frömberg
+- Design FiraGO Arabic: Ralph du Carrois, Titus Nemeth and Hasan Abu Afash 
+- Design FiraGO Devanagari: Rob Keller, Kimya Gandhi and Natalie Rauch
+- Design FiraGO Georgian: Akaki Razmadze and Anja Meiners
+- Design FiraGO Hebrew: Natalie Rauch with consultancy support by Yanek Iontef
+- Design FiraGO Thai: Mark Frömberg with consultancy support by Ben Mitchell
+- Hinting: Monika Bartels and Anke Bonk at FontWerk (now Alphabet Type)
+- Scripts and technical support: Mark Frömberg
 
 ### ! THANK YOU ! MERCI ! DANKE ! Dziękuję !  Gracias ! Kiitos ! Obrigado ! Спасибо !
 
@@ -43,14 +43,14 @@ Scripts and technical support: Mark Frömberg
 
 ## NEXT STEPS 
 
-- Math? Mono extension? Mono Italic? Serif? Slab? „Non-Latin“ Condensed? Broader script support? …
-- It’s up to you. We’re looking for extension funding.
+- Math? Mono extension? Mono Italic? Serif? Slab? FiraGO Condensed? Broader script support? …
+- It’s up to you. We’re looking for extension funding and expert’s consultancy.
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 Fira Sans is a trademark of The Mozilla Corporation.
 
-## recent Fira Sans versions (this branch is not maintained anymore)
+## recent Fira Sans versions (this branch will not be maintained anymore)
 
 - Fira Sans 4.3 (Normal width plus Condensed & Compressed)
 - Fira Code 3.2
