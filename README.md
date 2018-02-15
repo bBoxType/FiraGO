@@ -1,8 +1,8 @@
-### FiraGO 1.0 * NEW *
+## FiraGO 1.0 *NEW*
 
 - 15 weights, 2 styles (Roman & Italic)
 
-## Script support 
+### Script support 
 
 Identical to Fira Sans 4.3:
 - Latin Extended
@@ -42,7 +42,7 @@ Additionally in FiraGO:
 - Georg Seifert for all-time technical support and advice. What a mighty tool.
 - Finally in advance: the whole community who will help improving FiraGO via Mail and GitHub.
 
-## NEXT STEPS 
+### NEXT STEPS 
 
 - Math? Mono extension? Mono Italic? Serif? Slab? FiraGO Condensed? Broader script support? …
 - It’s up to you. We’re looking for extension funding and expert’s consultancy.
@@ -51,7 +51,7 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 Fira Sans is a trademark of The Mozilla Corporation.
 
-## Recent Fira Sans versions (this branch will not be maintained anymore)
+### Recent Fira Sans versions (this branch will not be maintained anymore)
 
 - Fira Sans 4.3 (Normal width plus Condensed & Compressed)
 - Fira Code 3.2
@@ -60,13 +60,11 @@ Fira Sans is a trademark of The Mozilla Corporation.
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
-### CHANGE LOG FiraGO
-
-## Note:
+### Note:
 
 All weights below “Thin” use fractional coordinates which is an optical decision. Rendering engines might not be able to deal with that correctly. As for that, these weights should be seen as an experiment by now. If you notice any problems in smaller sizes please consider to use weights from Thin.
 
-## Fira GO font weights:
+### Fira GO font weights:
 
 - Two 			(2 units / CSS 100)
 - Four 			(4 units / CSS 100)
@@ -88,7 +86,7 @@ All weights below “Thin” use fractional coordinates which is an optical deci
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
-### CHANGE LOG FiraGO
+## CHANGE LOG FiraGO
 
-## version/build 1.000 (15.02.18)
+### version/build 1.000 (15.02.18)
 - first official version
