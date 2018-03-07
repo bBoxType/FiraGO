@@ -21,7 +21,7 @@ Additionally in FiraGO:
 - Manual basic True Type Hinting via Glyphs
 
 ### LEGAL
-- Digitized data copyright 2012-2018 for Fira GO, Carrois Corporate GbR and HERE Europe B.V. All rights reserved. 
+- Digitized data copyright 2012-2018 for FiraGO, Carrois Corporate GbR and HERE Europe B.V. All rights reserved. 
 - Digitized data copyright 2012-2018 for Fira Sans up to version 4.3 The Mozilla Foundation, Telefonica S.A., Carrois Corporate GbR and bBox Type GmbH
 - Design 2016 and later for Fira Sans & FiraGO: Carrois Corporate GbR and bBox Type GmbH
 
@@ -64,7 +64,7 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 All weights below “Thin” use fractional coordinates which is an optical decision. Rendering engines might not be able to deal with that correctly. As for that, these weights should be seen as an experiment by now. If you notice any problems in smaller sizes please consider to use weights from Thin.
 
-### Fira GO font weights:
+### FiraGO font weights:
 
 - Two 			(2 units / CSS 100)
 - Four 			(4 units / CSS 100)
