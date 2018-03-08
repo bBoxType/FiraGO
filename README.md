@@ -18,7 +18,16 @@ Additionally in FiraGO:
 - Hebrew
 - Thai
 
+Technical improvments
 - Manual basic True Type Hinting via Glyphs
+
+
+### New familiy name
+- For several reasons, we decided to establish FiraGO as a new product. That way users of FiraSans can also install FiraGO without any conflict.
+ 
+### Future prospect
+- All upcoming extensions will be based on FiraGO.
+- Fira Sans version 4.3 will be the last version for the time being. 
 
 ### LEGAL
 - Digitized data copyright 2012-2018 for Fira GO, Carrois Corporate GbR and HERE Europe B.V. All rights reserved. 
@@ -72,16 +81,16 @@ All weights below “Thin” use fractional coordinates which is an optical deci
 - Eight			(8 units / CSS 100)
 - Hair 			(14 units / CSS 100)
 * Thin 			(22 units / CSS 100)
-* UltraLight 		(34 units / CSS 200)
-* ExtraLight 		(46 units / CSS 250)
-* Light 			(58 units / CSS 300)
+* UltraLight 	(34 units / CSS 200)
+* ExtraLight 	(46 units / CSS 250)
+* Light 		(58 units / CSS 300)
 * Book 			(84 units / CSS 350)
 * Regular 		(92 units / CSS 400)
-* Medium 			(128 units / CSS 500)
+* Medium 		(128 units / CSS 500)
 * SemiBold 		(142 units / CSS 600)
 * Bold 			(158 units / CSS 700)
-* ExtraBold 		(178 units / CSS 800)
-* Heavy 			(198 units / CSS 900)
+* ExtraBold 	(178 units / CSS 800)
+- Heavy 		(198 units / CSS 900)
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
