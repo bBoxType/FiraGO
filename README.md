@@ -18,11 +18,12 @@ Additionally in FiraGO:
 - Hebrew
 - Thai
 
-Technical improvments
+Technical improvements
 - Manual basic True Type Hinting via Glyphs
 
+Please also see the pdf comparison document.
 
-### New familiy name
+### New family name
 - For several reasons, we decided to establish FiraGO as a new product. That way users of FiraSans can also install FiraGO without any conflict.
  
 ### Future prospect
@@ -30,7 +31,7 @@ Technical improvments
 - Fira Sans version 4.3 will be the last version for the time being. 
 
 ### LEGAL
-- Digitized data copyright 2012-2018 for Fira GO, Carrois Corporate GbR and HERE Europe B.V. All rights reserved. 
+- Digitized data copyright 2012-2018 for FiraGO, Carrois Corporate GbR and HERE Europe B.V. All rights reserved. 
 - Digitized data copyright 2012-2018 for Fira Sans up to version 4.3 The Mozilla Foundation, Telefonica S.A., Carrois Corporate GbR and bBox Type GmbH
 - Design 2016 and later for Fira Sans & FiraGO: Carrois Corporate GbR and bBox Type GmbH
 
