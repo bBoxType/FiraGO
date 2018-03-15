@@ -74,7 +74,7 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 All weights below “Thin” use fractional coordinates which is an optical decision. Rendering engines might not be able to deal with that correctly. As for that, these weights should be seen as an experiment by now. If you notice any problems in smaller sizes please consider to use weights from Thin.
 
-### Fira GO font weights:
+### FiraGO font weights:
 
 - Two 			(2 units / CSS 100)
 - Four 			(4 units / CSS 100)
