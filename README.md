@@ -7,7 +7,7 @@ For [several reasons](https://github.com/bBoxType/FiraGO/blob/master/FiraGO_Fira
 
 - [Read about FiraGO vs Fira Sans](https://github.com/bBoxType/FiraGO/blob/master/FiraGO_FiraSans_Comparison.pdf)
 - [Try out FiraGO in your browser](https://bboxtype.com/typefaces/FiraGO/#!layout=editor)
-- [View a technical report and all specimens](https://bboxtype.com/downloads/FiraGO/Technical_Report_FiraGO.pdf)
+- [View technical reports](https://github.com/bBoxType/FiraGO/tree/master/Technical%20Report%20PDF)
 - [See FiraGO's home on bBox Type](https://bboxtype.com/typefaces/FiraGO/#!layout=specimen)
 
 ## Script support 
