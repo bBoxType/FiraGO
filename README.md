@@ -31,9 +31,11 @@ Technical improvements
 
 Please also see the pdf comparison document.
 
-# Future prospect
+## Future prospect
 - All upcoming extensions will be based on FiraGO.
 - Fira Sans version 4.3 will be the last version for the time being. 
+- Math? Mono extension? Mono Italic? Serif? Slab? FiraGO Condensed? Broader script support? …
+- It’s up to you. We’re looking for extension funding and expert’s consultancy.
 
 ## LEGAL
 - Digitized data copyright 2012-2018 for FiraGO, Carrois Corporate GbR and HERE Europe B.V. All rights reserved, with Reserved Font Name "Fira"
@@ -56,11 +58,6 @@ Please also see the pdf comparison document.
 - Designers and consultants (s.a.). It is a pleasure to work with you.
 - Georg Seifert for all-time technical support and advice. What a mighty tool.
 - Finally in advance: the whole community who will help improving FiraGO via Mail and GitHub.
-
-## NEXT STEPS 
-
-- Math? Mono extension? Mono Italic? Serif? Slab? FiraGO Condensed? Broader script support? …
-- It’s up to you. We’re looking for extension funding and expert’s consultancy.
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
