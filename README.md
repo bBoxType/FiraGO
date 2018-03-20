@@ -36,7 +36,7 @@ Please also see the pdf comparison document.
 - Fira Sans version 4.3 will be the last version for the time being. 
 
 ## LEGAL
-- Digitized data copyright 2012-2018 for Fira GO, Carrois Corporate GbR and HERE Europe B.V. All rights reserved, with Reserved Font Name "Fira"
+- Digitized data copyright 2012-2018 for FiraGO, Carrois Corporate GbR and HERE Europe B.V. All rights reserved, with Reserved Font Name "Fira"
 - Digitized data copyright 2012-2018 for Fira Sans up to version 4.3 The Mozilla Foundation, Telefonica S.A., Carrois Corporate GbR and bBox Type GmbH, with Reserved Font Name "Fira"
 - Design 2016 and later for Fira Sans & FiraGO: Carrois Corporate GbR and bBox Type GmbH
 
