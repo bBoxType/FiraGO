@@ -6,9 +6,8 @@
 For [several reasons](https://github.com/bBoxType/FiraGO/blob/master/FiraGO_FiraSans_Comparison.pdf), we decided to establish FiraGO as a new product. That way users of FiraSans can also install FiraGO without any conflict.
 
 - [Read about FiraGO vs Fira Sans](https://github.com/bBoxType/FiraGO/blob/master/FiraGO_FiraSans_Comparison.pdf)
-- [Try out FiraGO in your browser](https://bboxtype.com/typefaces/FiraGO/#!layout=editor)
 - [View technical reports](https://github.com/bBoxType/FiraGO/tree/master/Technical%20Report%20PDF)
-- [See FiraGO's home on bBox Type](https://bboxtype.com/typefaces/FiraGO/#!layout=specimen)
+- [Read more about FiraGO at carrois.com](https://carrois.com/fira/)
 
 ## Script support 
 
